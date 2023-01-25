@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <!-- Currently, ALPN is only available in .NET Core 2.1 and will be in .NET Standard 2.1 when it releases -->
-        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <TargetFramework>net7.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
