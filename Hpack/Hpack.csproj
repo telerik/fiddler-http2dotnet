@@ -21,7 +21,7 @@
     </PackageLicenseUrl>
     <PackageTags>HTTP HTTP2 HTTP/2 HPACK Network Protocol</PackageTags>
     <SignAssembly>True</SignAssembly>
-    <AssemblyOriginatorKeyFile>C:\Work\Github\http2dotnet\http2key.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>../http2key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="System.Buffers" Version="4.3.0" />
