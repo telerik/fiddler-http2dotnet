@@ -10,14 +10,14 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes></PackageReleaseNotes>
     <PackageProjectUrl>
-      https://github.com/telerik/http2dotnet
+      https://github.com/telerik/fiddler-http2dotnet
     </PackageProjectUrl>
     <RepositoryUrl>
-      https://github.com/telerik/http2dotnet
+      https://github.com/telerik/fiddler-http2dotnet
     </RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseUrl>
-      https://raw.githubusercontent.com/telerik/http2dotnet/master/LICENSE
+      https://raw.githubusercontent.com/telerik/fiddler-http2dotnet/master/LICENSE
     </PackageLicenseUrl>
     <PackageTags>HTTP HTTP2 HTTP/2 HPACK Network Protocol</PackageTags>
     <SignAssembly>True</SignAssembly>
